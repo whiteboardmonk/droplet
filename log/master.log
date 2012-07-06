@@ -1,0 +1,106 @@
+[Sun, 28 Aug 2011 15:10:35 GMT] INFO spawned worker 0
+[Sun, 28 Aug 2011 15:10:35 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:35 GMT] INFO master started
+[Sun, 28 Aug 2011 15:10:35 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:35 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:35 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:35 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:35 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:35 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:35 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:35 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:35 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:36 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:36 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:36 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:36 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:36 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:37 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:37 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:37 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:37 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:37 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:38 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:38 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:38 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:38 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:38 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:39 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:39 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:39 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 died
+[Sun, 28 Aug 2011 15:10:39 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:10:39 GMT] ERROR worker 1 uncaught exception EADDRINUSE, Address already in use
+[Sun, 28 Aug 2011 15:43:01 GMT] INFO spawned worker 0
+[Sun, 28 Aug 2011 15:43:01 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:43:01 GMT] INFO master started
+[Sun, 28 Aug 2011 15:45:21 GMT] INFO spawned worker 0
+[Sun, 28 Aug 2011 15:45:21 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:45:21 GMT] INFO master started
+[Sun, 28 Aug 2011 15:45:42 GMT] INFO spawned worker 0
+[Sun, 28 Aug 2011 15:45:42 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:45:42 GMT] INFO master started
+[Sun, 28 Aug 2011 15:56:32 GMT] INFO spawned worker 0
+[Sun, 28 Aug 2011 15:56:32 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:56:32 GMT] INFO master started
+[Sun, 28 Aug 2011 15:56:44 GMT] WARNING shutting down master
+[Sun, 28 Aug 2011 15:56:45 GMT] INFO spawned worker 0
+[Sun, 28 Aug 2011 15:56:45 GMT] INFO spawned worker 1
+[Sun, 28 Aug 2011 15:56:45 GMT] INFO master started
+[Mon, 29 Aug 2011 06:57:35 GMT] WARNING shutting down master
+[Sat, 03 Sep 2011 07:21:16 GMT] INFO spawned worker 0
+[Sat, 03 Sep 2011 07:21:16 GMT] INFO spawned worker 1
+[Sat, 03 Sep 2011 07:21:16 GMT] INFO master started
+[Sat, 03 Sep 2011 07:26:29 GMT] INFO spawned worker 0
+[Sat, 03 Sep 2011 07:26:29 GMT] INFO spawned worker 1
+[Sat, 03 Sep 2011 07:26:29 GMT] INFO master started
+[Sat, 03 Sep 2011 07:27:16 GMT] INFO spawned worker 0
+[Sat, 03 Sep 2011 07:27:16 GMT] INFO spawned worker 1
+[Sat, 03 Sep 2011 07:27:16 GMT] INFO master started
+[Sat, 03 Sep 2011 07:28:58 GMT] INFO spawned worker 0
+[Sat, 03 Sep 2011 07:28:58 GMT] INFO spawned worker 1
+[Sat, 03 Sep 2011 07:28:58 GMT] INFO master started
+[Mon, 10 Oct 2011 05:08:48 GMT] INFO spawned worker 0
+[Mon, 10 Oct 2011 05:08:48 GMT] INFO spawned worker 1
+[Mon, 10 Oct 2011 05:08:48 GMT] INFO master started
+[Mon, 10 Oct 2011 05:11:33 GMT] INFO spawned worker 0
+[Mon, 10 Oct 2011 05:11:33 GMT] INFO spawned worker 1
+[Mon, 10 Oct 2011 05:11:33 GMT] INFO master started
+[Mon, 10 Oct 2011 05:12:32 GMT] WARNING shutting down master
+[Mon, 10 Oct 2011 05:12:33 GMT] INFO spawned worker 0
+[Mon, 10 Oct 2011 05:12:33 GMT] INFO spawned worker 1
+[Mon, 10 Oct 2011 05:12:33 GMT] INFO master started
+[Mon, 10 Oct 2011 05:12:48 GMT] INFO spawned worker 0
+[Mon, 10 Oct 2011 05:12:48 GMT] INFO spawned worker 1
+[Mon, 10 Oct 2011 05:12:48 GMT] INFO master started
+[Mon, 10 Oct 2011 06:26:27 GMT] INFO spawned worker 0
+[Mon, 10 Oct 2011 06:26:27 GMT] INFO spawned worker 1
+[Mon, 10 Oct 2011 06:26:27 GMT] INFO master started

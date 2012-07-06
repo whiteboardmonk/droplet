@@ -1,0 +1,224 @@
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error: EADDRINUSE, Address already in use
+    at HTTPServer._doListen (net.js:1100:5)
+    at net.js:1071:14
+    at Object.lookup (dns.js:153:45)
+    at HTTPServer.listen (net.js:1065:20)
+    at /Users/akshaysurve/Documents/projects/droplet/app.js:25:6
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:18:7
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:26:9
+    at [object Object].collection (/Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:241:5)
+    at /Users/akshaysurve/Documents/projects/droplet/lib/droplet.js:24:10
+    at /Users/akshaysurve/Documents/projects/droplet/node_modules/mongodb/lib/mongodb/db.js:383:22
+Error connecting to mongo -- perhaps it isn't running?
+Error connecting to mongo -- perhaps it isn't running?
+Error connecting to mongo -- perhaps it isn't running?
+Error connecting to mongo -- perhaps it isn't running?

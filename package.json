@@ -1,0 +1,17 @@
+{
+  "name": "droplet",
+  "description": "A node.js pixel tracking server",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongodb": "0.9.1",
+    "node-static": "0.5.6",
+    "connect": 
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/startupjockey/droplet.git"
+  },
+  "engines": {
+    "node": ">=0.3.0"
+  }
+}
